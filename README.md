@@ -31,8 +31,10 @@ I'm a passionate developer who enjoys solving real-world problems through scalab
 
 ## 📈 Stats
 
-![Saiesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaieshSharma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaieshSharma&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaieshSharma&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaieshSharma&theme=dark)
+
 
 ---
 
